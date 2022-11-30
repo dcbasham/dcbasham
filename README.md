@@ -1,5 +1,11 @@
-### Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="![DbcalligraphyLogoDark300](https://user-images.githubusercontent.com/20828934/204908180-0ac6d8f4-2d7f-4966-a2e3-383c239cb798.png)">
+ <source media="(prefers-color-scheme: light)" srcset="![DbcalligraphyLogoLight300](https://user-images.githubusercontent.com/20828934/204908849-d7cabed9-629a-4dc3-8ba8-5179f99e45b7.png)">
+<img align="left" alt="logo with initials DB and name Daurie Basham displayed in black text or white text in dark mode" src="https://user-images.githubusercontent.com/20828934/204908180-0ac6d8f4-2d7f-4966-a2e3-383c239cb798.png">
+</picture>
 
+### :wave: Welcome 
+#### :construction_worker: Please excuse the emptiness, this page is under construction
 <!--
 **dcbasham/dcbasham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
